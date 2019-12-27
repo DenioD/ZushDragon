@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=ZushDragon
+Comment=Full node and wallet for Hush
+GenericName=Wallet
+Exec=/usr/local/bin/ZushDragon %u
+Icon=ZushDragon.xpm
+Type=Application
+StartupNotify=true
+StartupWMClass=ZushDragon
+Categories=Utility;
+MimeType=x-scheme-handler/hush;
+Keywords=ZushDragon;
+
